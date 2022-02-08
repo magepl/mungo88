@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mungo88
-- 👀 I’m interested in front end web dev
-- 🌱 I’m currently learning html, css, js
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
